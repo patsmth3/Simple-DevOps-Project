@@ -1,4 +1,4 @@
-FROM tomcat:latest
+FROM tomcat:10.0.8-jdk8-corretto
 
 MAINTAINER AR Shankar
 
